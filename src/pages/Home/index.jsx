@@ -1,7 +1,9 @@
-import '../../styles/App.css'
-
-function App() {
-  return <div className="App">{'hola'}</div>
+function Home() {
+  return (
+    <div>
+      <h1> Page d'accueil 🏠</h1>
+    </div>
+  )
 }
 
-export default App
+export default Home
